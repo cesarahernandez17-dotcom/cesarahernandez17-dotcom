@@ -1,4 +1,5 @@
-Hi, I'm César 👋  
+**Hi, I'm César 👋  **
+
 I build **AI automations and agents** for PYMEs in Argentina — chatbots inteligentes, RAG with local data, agents for sales/stock/customer service, integrations with WhatsApp/Mercado Libre/AFIP.
 
 Most of my work is hands-on: real Python code, n8n/Make workflows, LangChain/LangGraph setups, and tested MVPs you can clone → install → run right away.
@@ -12,7 +13,7 @@ What I work on
 - Ready-to-run templates: clone my repos for quick starts  
 - GenAI in retail: personalized marketing, customer support assistants, demand forecasting  
 
-About Me  
+**About Me  **
 **Product Specialist | OTT/Streaming @ Vrio Corp. (DGO)**  
 Buenos Aires, Provincia de Buenos Aires, Argentina  
 
